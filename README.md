@@ -1,6 +1,6 @@
 # WebDev9000 Nodes
 
-A few misc nodes I've created for various needs.
+A few misc ComfyUI nodes I've created for various needs.
 
 ## IgnoreBrace
 
@@ -16,3 +16,7 @@ A node I made to switch between two sets of settings I use often in a high-res p
 Plug it into Steps and Denoise on a KSampler node to quickly toggle between two presets. <br />
 Low denoise = steps: 5, denoise: 0.35<br />
 High denoise = steps: 10, denoise: 0.5
+
+## Installation
+
+Git clone this repo in the ComfyUI/custom_nodes folder.
