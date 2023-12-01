@@ -9,6 +9,8 @@ A string input node that disables "dynamic prompts", thereby allowing unescaped 
 Created to fix an issue loading LoRA with braces in their names via [ComfyUI Prompt Control](https://github.com/asagi4/comfyui-prompt-control).<br />
 Without disabling dynamic prompts, braces in the filename are otherwise incompatible even when escaped.
 
+Suggested to use with my [Extra Network Browser](https://github.com/WebDev9000/extra-network-browser/)
+
 ## SettingsSwitch
 
 A node I made to switch between two sets of settings I use often in a high-res pass.
